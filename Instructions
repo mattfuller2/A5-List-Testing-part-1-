@@ -1,0 +1,20 @@
+The goal of this assignment is to show a plan for testing, as follows:
+
+ * List all possible tests for each scenario that either starts with an 
+   empty list or ends with an empty list, specifically scenarios 1-5 and 
+   12-15. Scenario 1 is given to you.
+   
+ * List all possible tests for scenarios that result in a list of one 
+   element, specifically scenarios 16 and 25-30.
+   
+ * List all possible tests for at least two scenarios (in addition to given 
+   scenario 6) that start with a one-element list and result in a two-
+   element list.
+   
+ ** List all possible tests for at least two scenarios that start with a 
+   two-element list and result in a three-element list.
+   
+ *** List all possible tests for at least two scenarios (in addition to given 
+   scenario 39) that start with a three-element list and result in a 
+   two-element list.
+   
